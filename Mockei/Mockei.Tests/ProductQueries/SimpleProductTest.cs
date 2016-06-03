@@ -13,7 +13,7 @@ namespace Mockei.Tests.ProductQueries
     public class SimpleProductTest
     {
         [TestMethod]
-        public void GetOneProductMocking()
+        public void GetFourProductsMocking()
         {
             
             //Crio a instancia do Mock para a interface do contexto de banco de dados com base no Entity Framework
